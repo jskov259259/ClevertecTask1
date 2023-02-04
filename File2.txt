@@ -1,1 +1,2 @@
 Second message
+New message in file2
